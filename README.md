@@ -2,6 +2,11 @@
 This repository contains the work related to the two Kaggle challenges performed in the context of the 2025/26 Artificial Neural Networks and Deep Learning course at Politecnico di Milano. 
 Both challenges were graded with a 5/5 score.
 
+## Team members
+- Marcello Braghiroli
+- Guido Cestele
+- Filippo Valentini
+
 # First Challenge
 ![First Challenge Image](challenge1.png)
 
