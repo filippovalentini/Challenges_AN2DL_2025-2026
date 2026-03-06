@@ -35,6 +35,9 @@ Develop a Recurrent Neural Network to predict the real pain level of each test s
 | **BiGRU NTW + FC layer + Adaptive Stride** | **0.9563** |
 | BiGRU NTW + FC layer + Convolutional layer | 0.9418 |
 
+## Leaderboard position
+#76 out of 193 teams.
+
 # Second Challenge
 ![Second Challenge Image](challenge2.png)
 
@@ -58,3 +61,6 @@ Develop a Convolutional Neural Network to predict the correct molecular subtype 
 | ConvNeXt + multiscaling | 0.3709 |
 | **RetCCL ResNet-50** | **0.4407** |
 | Prov-GigaPath | 0.4279 |
+
+## Leaderboard position
+#16 out of 193 teams.
