@@ -1,6 +1,6 @@
 # Overview
-This repository contains the work related to the two Kaggle challenges performed in the context of the 2025/26 Artificial Neural Networks and Deep Learning course at Politecnico di Milano. 
-Both challenges were graded with a 5/5 score.
+This repository contains the work related to the two **Kaggle challenges** performed in the context of the 2025/26 *Artificial Neural Networks and Deep Learning* course at Politecnico di Milano. 
+Both challenges were graded with a **5/5 score.**
 
 ## Team members
 - Marcello Braghiroli
@@ -24,7 +24,7 @@ Each record represents a time step within a subject’s recording, identified by
 We were provided both with a labeled training set and an unlabeled test set; the latter was used to evaluate the performance of our network and to determine the position of our team on the Kaggle leaderboard.
 
 ## Goal
-Develop a Recurrent Neural Network to predict the real pain level of each test subject based on their time-series motion data.
+Develop a **Recurrent Neural Network** to predict the real pain level of each test subject based on their time-series motion data.
 
 ## Results
 
@@ -49,7 +49,7 @@ The provided dataset contains several diseased human tissue images of different 
 - *Triple Negative*
 
 ## Goal
-Develop a Convolutional Neural Network to predict the correct molecular subtype of each test image based on their microscopic tissue morphology.
+Develop a **Convolutional Neural Network** to predict the correct molecular subtype of each test image based on their microscopic tissue morphology.
 
 ## Results
 
